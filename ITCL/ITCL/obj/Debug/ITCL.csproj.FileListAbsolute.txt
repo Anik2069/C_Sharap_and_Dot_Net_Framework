@@ -1,0 +1,7 @@
+D:\C# and Dot net\ITCL\ITCL\obj\Debug\ITCL.csprojAssemblyReference.cache
+D:\C# and Dot net\ITCL\ITCL\obj\Debug\ITCL.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\ITCL\ITCL\bin\Debug\ITCL.exe.config
+D:\C# and Dot net\ITCL\ITCL\bin\Debug\ITCL.exe
+D:\C# and Dot net\ITCL\ITCL\bin\Debug\ITCL.pdb
+D:\C# and Dot net\ITCL\ITCL\obj\Debug\ITCL.exe
+D:\C# and Dot net\ITCL\ITCL\obj\Debug\ITCL.pdb

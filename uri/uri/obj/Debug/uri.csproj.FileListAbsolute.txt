@@ -1,0 +1,7 @@
+D:\C# and Dot net\uri\uri\bin\Debug\uri.exe.config
+D:\C# and Dot net\uri\uri\bin\Debug\uri.exe
+D:\C# and Dot net\uri\uri\bin\Debug\uri.pdb
+D:\C# and Dot net\uri\uri\obj\Debug\uri.csprojAssemblyReference.cache
+D:\C# and Dot net\uri\uri\obj\Debug\uri.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\uri\uri\obj\Debug\uri.exe
+D:\C# and Dot net\uri\uri\obj\Debug\uri.pdb

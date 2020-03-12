@@ -1,0 +1,7 @@
+D:\C# and Dot net\methodTestingEdx\methodTestingEdx\bin\Debug\methodTestingEdx.exe.config
+D:\C# and Dot net\methodTestingEdx\methodTestingEdx\bin\Debug\methodTestingEdx.exe
+D:\C# and Dot net\methodTestingEdx\methodTestingEdx\bin\Debug\methodTestingEdx.pdb
+D:\C# and Dot net\methodTestingEdx\methodTestingEdx\obj\Debug\methodTestingEdx.csprojAssemblyReference.cache
+D:\C# and Dot net\methodTestingEdx\methodTestingEdx\obj\Debug\methodTestingEdx.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\methodTestingEdx\methodTestingEdx\obj\Debug\methodTestingEdx.exe
+D:\C# and Dot net\methodTestingEdx\methodTestingEdx\obj\Debug\methodTestingEdx.pdb

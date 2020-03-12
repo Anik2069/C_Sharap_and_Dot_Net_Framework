@@ -1,0 +1,7 @@
+D:\C# and Dot net\practiceOfTypeConvertion\practiceOfTypeConvertion\bin\Debug\practiceOfTypeConvertion.exe.config
+D:\C# and Dot net\practiceOfTypeConvertion\practiceOfTypeConvertion\bin\Debug\practiceOfTypeConvertion.exe
+D:\C# and Dot net\practiceOfTypeConvertion\practiceOfTypeConvertion\bin\Debug\practiceOfTypeConvertion.pdb
+D:\C# and Dot net\practiceOfTypeConvertion\practiceOfTypeConvertion\obj\Debug\practiceOfTypeConvertion.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\practiceOfTypeConvertion\practiceOfTypeConvertion\obj\Debug\practiceOfTypeConvertion.exe
+D:\C# and Dot net\practiceOfTypeConvertion\practiceOfTypeConvertion\obj\Debug\practiceOfTypeConvertion.pdb
+D:\C# and Dot net\practiceOfTypeConvertion\practiceOfTypeConvertion\obj\Debug\practiceOfTypeConvertion.csprojAssemblyReference.cache

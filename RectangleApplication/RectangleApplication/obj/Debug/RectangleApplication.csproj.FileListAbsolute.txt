@@ -1,0 +1,7 @@
+D:\C# and Dot net\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+D:\C# and Dot net\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+D:\C# and Dot net\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+D:\C# and Dot net\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojAssemblyReference.cache
+D:\C# and Dot net\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+D:\C# and Dot net\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb

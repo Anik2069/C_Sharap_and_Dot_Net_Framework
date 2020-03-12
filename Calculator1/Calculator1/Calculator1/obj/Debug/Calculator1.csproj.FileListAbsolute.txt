@@ -1,0 +1,32 @@
+D:\Class works\.net projects\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+D:\Class works\.net projects\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+D:\Class works\.net projects\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+D:\Class works\.net projects\Calculator1\Calculator1\obj\Debug\Calculator1.Form2.resources
+D:\Calculator1\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+D:\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+D:\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.pdb
+D:\Calculator1\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+D:\Calculator1\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+D:\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.csprojResolveAssemblyReference.cache
+D:\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+D:\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.Form2.resources
+D:\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+D:\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.Cache
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\bin\Debug\Calculator1.exe.config
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\bin\Debug\Calculator1.exe
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\bin\Debug\Calculator1.pdb
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.csprojAssemblyReference.cache
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.Form1.resources
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.Form2.resources
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.Properties.Resources.resources
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.GenerateResource.cache
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.exe
+D:\C# and Dot net\Calculator1\Calculator1\Calculator1\obj\Debug\Calculator1.pdb

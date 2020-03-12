@@ -1,0 +1,76 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="StudentPortal.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>DIU Portal</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style type="text/css">
+        h1 {
+            background-color:black;
+            color:white;
+            text-align:center;
+            height: 40px;
+            width: 1403px;
+            margin-bottom:0px;
+            margin-top:0px;
+        }
+        .button {
+        border-style: none;
+            border-color: inherit;
+            border-width: medium;
+            background-color: green; /* Green */
+            color: white;
+            padding: 12px 22px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            margin: 1px 2px 4px 89px;
+            cursor: pointer;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
+}
+
+
+
+.button2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+        </style>
+</head>
+<body>
+    <h1>DIU Portal</h1>
+               
+    <form id="form1" runat="server">
+         <div > 
+                    <asp:button class="button button2" Text="Home" runat="server" OnClick="Unnamed1_Click1"></asp:button>
+                    <asp:button class="button button2" Text="Profile" runat="server" OnClick="Unnamed2_Click"></asp:button>
+                    <asp:button class="button button2" Text="Result" runat="server" OnClick="Unnamed4_Click"></asp:button>
+                    <asp:button class="button button2" Text="Change Passsword" runat="server" OnClick="Unnamed5_Click"></asp:button>
+                    <asp:button class="button button2" Text="Log Out" runat="server" OnClick="Unnamed6_Click"></asp:button>
+                 </div>
+         <div class="container">
+            <div class="row" style="min-height: 450px">
+                <div class="col-lg-12">
+                    <br />
+                    <asp:ContentPlaceHolder ID="cphMainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+              <footer>
+            <div class="small-print">
+                <div class="container">
+                   <div style="text-align:center">
+    CopyRight @ DIU Authority <%= DateTime.Now.Year %> 
+        </div>
+                </div>
+            </div>
+        </footer>
+        </div>
+    </form>
+</body>
+</html>

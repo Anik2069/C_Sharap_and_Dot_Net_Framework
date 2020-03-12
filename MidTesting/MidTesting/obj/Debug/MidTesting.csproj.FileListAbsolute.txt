@@ -1,0 +1,7 @@
+D:\C# and Dot net\MidTesting\MidTesting\bin\Debug\MidTesting.exe.config
+D:\C# and Dot net\MidTesting\MidTesting\bin\Debug\MidTesting.exe
+D:\C# and Dot net\MidTesting\MidTesting\bin\Debug\MidTesting.pdb
+D:\C# and Dot net\MidTesting\MidTesting\obj\Debug\MidTesting.csprojAssemblyReference.cache
+D:\C# and Dot net\MidTesting\MidTesting\obj\Debug\MidTesting.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\MidTesting\MidTesting\obj\Debug\MidTesting.exe
+D:\C# and Dot net\MidTesting\MidTesting\obj\Debug\MidTesting.pdb

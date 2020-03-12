@@ -1,0 +1,7 @@
+D:\C# and Dot net\ABCshop\ABCshop\bin\Debug\ABCshop.exe.config
+D:\C# and Dot net\ABCshop\ABCshop\bin\Debug\ABCshop.exe
+D:\C# and Dot net\ABCshop\ABCshop\bin\Debug\ABCshop.pdb
+D:\C# and Dot net\ABCshop\ABCshop\obj\Debug\ABCshop.csprojAssemblyReference.cache
+D:\C# and Dot net\ABCshop\ABCshop\obj\Debug\ABCshop.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\ABCshop\ABCshop\obj\Debug\ABCshop.exe
+D:\C# and Dot net\ABCshop\ABCshop\obj\Debug\ABCshop.pdb

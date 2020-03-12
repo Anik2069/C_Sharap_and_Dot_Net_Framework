@@ -1,0 +1,7 @@
+D:\C# and Dot net\ACIcompany\ACIcompany\bin\Debug\ACIcompany.exe.config
+D:\C# and Dot net\ACIcompany\ACIcompany\bin\Debug\ACIcompany.exe
+D:\C# and Dot net\ACIcompany\ACIcompany\bin\Debug\ACIcompany.pdb
+D:\C# and Dot net\ACIcompany\ACIcompany\obj\Debug\ACIcompany.csprojAssemblyReference.cache
+D:\C# and Dot net\ACIcompany\ACIcompany\obj\Debug\ACIcompany.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\ACIcompany\ACIcompany\obj\Debug\ACIcompany.exe
+D:\C# and Dot net\ACIcompany\ACIcompany\obj\Debug\ACIcompany.pdb

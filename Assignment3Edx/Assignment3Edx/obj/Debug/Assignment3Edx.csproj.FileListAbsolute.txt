@@ -1,0 +1,7 @@
+D:\C# and Dot net\Assignment3Edx\Assignment3Edx\bin\Debug\Assignment3Edx.exe.config
+D:\C# and Dot net\Assignment3Edx\Assignment3Edx\bin\Debug\Assignment3Edx.exe
+D:\C# and Dot net\Assignment3Edx\Assignment3Edx\bin\Debug\Assignment3Edx.pdb
+D:\C# and Dot net\Assignment3Edx\Assignment3Edx\obj\Debug\Assignment3Edx.csprojAssemblyReference.cache
+D:\C# and Dot net\Assignment3Edx\Assignment3Edx\obj\Debug\Assignment3Edx.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\Assignment3Edx\Assignment3Edx\obj\Debug\Assignment3Edx.exe
+D:\C# and Dot net\Assignment3Edx\Assignment3Edx\obj\Debug\Assignment3Edx.pdb

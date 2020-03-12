@@ -1,0 +1,7 @@
+D:\C# and Dot net\testofSplit\testofSplit\obj\Debug\testofSplit.csprojAssemblyReference.cache
+D:\C# and Dot net\testofSplit\testofSplit\obj\Debug\testofSplit.csproj.CoreCompileInputs.cache
+D:\C# and Dot net\testofSplit\testofSplit\bin\Debug\testofSplit.exe.config
+D:\C# and Dot net\testofSplit\testofSplit\bin\Debug\testofSplit.exe
+D:\C# and Dot net\testofSplit\testofSplit\bin\Debug\testofSplit.pdb
+D:\C# and Dot net\testofSplit\testofSplit\obj\Debug\testofSplit.exe
+D:\C# and Dot net\testofSplit\testofSplit\obj\Debug\testofSplit.pdb
